@@ -9,8 +9,5 @@ jobs:
  
     steps:
       - name: Print Message
-        run: echo "Hi Prajai,
-	How r u ,
-	Okay Bye,
-	Thank you,
-	Tataa"
+        run: echo "Hi Prajai,Bye Prajai"
+	
